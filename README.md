@@ -1,1 +1,1 @@
-"# CapstoneAngular" 
+# capstone-angular
